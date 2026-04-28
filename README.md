@@ -1,2 +1,2 @@
 # Wandr
-Claude code for development
+Process 1 step a day
